@@ -1,7 +1,7 @@
 class Translation(object):
 
       # Start text
-      START = "Hi"             
+      START = "Hi, i'am a robot. I can forward any post from channel [A] to [B] and my father is @ZOK4574"             
 
       #About text
       ABOUT = """
